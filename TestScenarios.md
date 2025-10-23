@@ -24,8 +24,10 @@ TS_LOG_001. Login with valid email & password.
 TS_LOG_002. Login with valid email and wrong password.  
 TS_LOG_003. Login with unregistered email.  
 TS_LOG_004. Login with blank fields (email, password, or both).  
-TS_LOG_005. Login with invalid credentials. 
-TS_LOG_006. Verify after login it redirect to correct dashboard. 
-TS_LOG_007. Check login UI elements.  
-TS_LOG_008. Verify “Forgot Password” link functionality.  
-TS_LOG_009. Verify Logout process works correctly.
+TS_LOG_005. Login with invalid credentials.  
+TS_LOG_006. Verify after login it redirect to correct dashboard.  
+TS_LOG_007. Check login UI elements.    
+TS_LOG_008. Verify “Forgot Password” link functionality.    
+TS_LOG_009. Verify Logout process works correctly.  
+
+
