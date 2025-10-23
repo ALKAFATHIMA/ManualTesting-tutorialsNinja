@@ -35,6 +35,5 @@
 
 ### Notes
 
-- Each scenario can be converted into **one or more test cases** in `TestCases.xlsx`.  
-- Include **positive and negative scenarios** for completeness.  
+- Each scenario can be converted into **one or more test cases** in `TestCases.xlsx`.    
 - Take **screenshots for every executed scenario** and store them in the `Screenshots` folder.  
