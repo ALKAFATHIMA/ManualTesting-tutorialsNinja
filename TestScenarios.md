@@ -29,10 +29,3 @@ TS_LOG_006. Verify after login it redirect to correct dashboard.
 TS_LOG_007. Check login UI elements.  
 TS_LOG_008. Verify “Forgot Password” link functionality.  
 TS_LOG_009. Verify Logout process works correctly.
-
----
-
-### Notes
-
-- Each scenario can be converted into **one or more test cases** in `TestCases.xlsx`.    
-- Take **screenshots for every executed scenario** and store them in the `Screenshots` folder.  
