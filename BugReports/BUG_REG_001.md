@@ -23,6 +23,6 @@
 **Actual Result:** No email received.    
 **Severity:** Major    
 **Priority:** P2   
-**Attachments:** [TC_REG_002_fail.png](https://github.com/ALKAFATHIMA/ManualTestingtutorialsNinja/blob/main/Screenshots/Registration/TC_REG_002_fail.png)
+**Attachments:** [TC_REG_002_fail.png](Screenshots/Registration/TC_REG_002_fail.png)  
 **Status:** New   
 
