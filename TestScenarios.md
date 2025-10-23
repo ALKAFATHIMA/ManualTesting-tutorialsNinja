@@ -7,8 +7,7 @@
 
 ## 1. Registration Scenarios
 
-TS_REG_001. Register with valid details.
-
+TS_REG_001. Register with valid details.  
 TS_REG_002. Verify that a confirmation mail is sent to the registered mail id.  
 TS_REG_003. Register with an already registered email.  
 TS_REG_004. Register with invalid email format.  
