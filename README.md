@@ -34,8 +34,8 @@ Testing covers only:
 ## 🧾 Execution Summary
 | Module | Total Cases | Passed | Failed | Remarks |
 |---------|--------------|--------|--------|----------|
-| Registration | 10 | 9 | 1 | Confirmation email not received |
-| Login | 10 | 10 | 0 | All passed |
+| Registration | 11 | 10 | 1 | Confirmation email not received |
+| Login | 11 | 11 | 0 | All passed |
 
 ---
 
