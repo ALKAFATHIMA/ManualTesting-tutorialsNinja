@@ -23,6 +23,6 @@
 **Actual Result:** No email received.    
 **Severity:** Major    
 **Priority:** P2   
-**Attachments:** [TC_REG_002_fail.png](Screenshots/Registration/TC_REG_002_fail.png)  
+**Attachments:** ![Screenshot](../../Screenshots/Registration/TC_REG_001_fail.png)  
 **Status:** New   
 
